@@ -7,15 +7,15 @@ li {
 }
 
 .header {
-  background-color: #26d0c9;
+  background-color: #00FFF7;
   color: #fff;
   height: 90px;
 }
 
 .header-logo {
   float: left;
-  font-size: 36px;
-  padding: 20px 40px;
+  font-size: 32px;
+  padding: 20px 30px;
 }
 
 .header-list li {
@@ -28,15 +28,15 @@ li {
 }
 
 .copy-container h1 {
-  font-size: 140px;
+  font-size: 120px;
 }
 
 .copy-container h2 {
-  font-size: 60px;
+  font-size: 50px;
 }
 
 .copy-container span {
-  color: #ff4a4a;
+  color: #FF914A;
 }
 
 .contents {
