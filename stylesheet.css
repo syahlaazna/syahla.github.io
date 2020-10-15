@@ -15,7 +15,7 @@ li {
 .header-logo {
   float: left;
   font-size: 32px;
-  padding: 20px 30px;
+  padding: 20px 40px;
 }
 
 .header-list li {
@@ -25,7 +25,7 @@ li {
 
 .main {
   background-color: #FFFFFF;
-  padding: 200px 100px;
+  padding: 80px 50px;
 }
 
 .copy-container h1 {
