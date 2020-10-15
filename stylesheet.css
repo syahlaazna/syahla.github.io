@@ -10,7 +10,6 @@ li {
   background-color: #3EA180;
   color: #9F2929;
   height: 90px;
-  width: 100px;
 }
 
 .header-logo {
@@ -26,7 +25,7 @@ li {
 
 .main {
   background-color: #FFFFFF;
-  padding: 120px 80px;
+  padding: 200px 100px;
 }
 
 .copy-container h1 {
