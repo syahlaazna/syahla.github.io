@@ -9,7 +9,7 @@ li {
 .header {
   background-color: #00FFF7;
   color: #fff;
-  height: 90px;
+  height: 80px;
 }
 
 .header-logo {
@@ -25,7 +25,7 @@ li {
 
 .main {
   background-color: #FFFFFF;
-  padding: 100px 80px;
+  padding: 120px 80px;
 }
 
 .copy-container h1 {
