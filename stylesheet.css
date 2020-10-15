@@ -9,7 +9,8 @@ li {
 .header {
   background-color: #3EA180;
   color: #9F2929;
-  height: 80px;
+  height: 90px;
+  width: 100px;
 }
 
 .header-logo {
