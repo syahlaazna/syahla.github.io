@@ -7,8 +7,8 @@ li {
 }
 
 .header {
-  background-color: #3EA180;
-  color: #9F2929;
+  background-color: #2f5167;
+  color: #fff;
   height: 90px;
 }
 
@@ -19,25 +19,13 @@ li {
 }
 
 .header-list li {
-  float: left;
+  float: right;
   padding: 33px 20px;
 }
 
 .main {
   background-color: #FFFFFF;
   padding: 80px 50px;
-}
-
-.copy-container h1 {
-  font-size: 120px;
-}
-
-.copy-container h2 {
-  font-size: 50px;
-}
-
-.copy-container span {
-  color: #FF914A;
 }
 
 .contents {
