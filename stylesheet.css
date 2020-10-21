@@ -28,6 +28,14 @@ li {
   padding: 100px 70px;
 }
 
+.Georgia {
+  font-family: Georgia, serif;
+}
+
+.impact {
+  font-family: Impact, Charcoal, sans-serif;
+}
+
 .copy-container {
   font-size : 40px;
   color : #9E74E1;
