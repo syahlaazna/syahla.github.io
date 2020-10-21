@@ -30,7 +30,7 @@ li {
 
 .Georgia {
   font-family: Georgia, serif;
-  font-size: 50px;
+  font-size: 60px;
 }
 
 .impact {
@@ -41,6 +41,7 @@ li {
 .copy-container {
   font-size : 40px;
   color : #9E74E1;
+  float : center;
 }
 
 .contents {
@@ -49,6 +50,7 @@ li {
 }
 
 .section-title {
+  color : #9E74E1;
   border-bottom: 2px solid #dee7ec;
   font-size: 28px;
   padding-bottom: 15px;
