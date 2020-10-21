@@ -31,11 +31,13 @@ li {
 .Georgia {
   font-family: Georgia, serif;
   font-size: 65px;
+  float: center;
 }
 
 .impact {
   font-family: Impact, Charcoal, sans-serif;
   font-size: 35px;
+  float: center;
 }
 
 .copy-container {
