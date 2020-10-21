@@ -24,8 +24,8 @@ li {
 }
 
 .main {
-  background-color: #B0D4F6;
-  padding: 80px 50px;
+  background-color: #E8E4D9;
+  padding: 100px 70px;
 }
 
 .contents {
@@ -41,7 +41,7 @@ li {
 }
 
 .contents-item {
-  float: left;
+  float: center;
   margin-right: 40px;
 }
 
