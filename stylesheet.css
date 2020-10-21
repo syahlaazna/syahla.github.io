@@ -30,7 +30,7 @@ li {
 
 .Georgia {
   font-family: Georgia, serif;
-  font-size: 65px;
+  font-size: 75px;
   float: center;
 }
 
@@ -104,6 +104,10 @@ input, textarea {
 .contact-submit {
   background-color: #22BEC8;
   color: #000000;
+}
+
+.sansserif {
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .footer {
